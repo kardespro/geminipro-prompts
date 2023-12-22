@@ -1,5 +1,5 @@
 # geminipro-prompts
-**System Promp Lists for Google's Gemini AI**
+**System Prompt Lists for Google's Gemini AI**
 
 
 #
@@ -10,4 +10,6 @@
 
 <h3>Author: <a href="https://github.com/kardespro">Nego</a></h3>
 
-<a href="">Prompt Link</a>
+<a href="https://github.com/kardespro/geminipro-prompts/blob/main/prompts/Mongodb-asistant.md">Prompt Link</a>
+
+#
