@@ -1,4 +1,7 @@
-# geminipro-prompts
+# GeminiPro Prompts
+
+****
+
 **System Prompt Lists for Google's Gemini AI**
 
 
@@ -13,3 +16,18 @@
 <a href="https://github.com/kardespro/geminipro-prompts/blob/main/prompts/Mongodb-asistant.md">Prompt Link</a>
 
 #
+
+
+# Contribute
+
+> "Fork" repo
+>
+> Make Changes.
+>
+> Open a new "PR"
+>
+> Wait for your "PR"  to be approved (it won't take long 😎)
+
+# Contributors
+
+<img src="https://contrib.rocks/image?repo=kardespro/geminipro-prompts" />
