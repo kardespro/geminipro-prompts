@@ -15,7 +15,7 @@
 
 <a href="https://github.com/kardespro/geminipro-prompts/blob/main/prompts/Mongodb-asistant.md">Prompt Link</a>
 
-# Mongodb Asistant
+# Redis Asistant
 
 > A gemini prompt that solves your redis  problems and explains the cause of the error in full detail!
 
