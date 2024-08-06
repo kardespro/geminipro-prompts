@@ -24,6 +24,14 @@
 <a href="https://github.com/kardespro/geminipro-prompts/blob/main/prompts/Redis-asistant.md">Prompt Link</a>
 
 
+# Domain Generator
+
+> Unique Domain generator
+
+<h3>Author: <a href="https://github.com/kardespro">Nego</a></h3>
+
+<a href="https://github.com/kardespro/geminipro-prompts/blob/main/prompts/domain.md">Prompt Link</a>
+
 #
 
 
